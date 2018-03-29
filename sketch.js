@@ -11,8 +11,8 @@ let ny = 250;
 let s = 10;
 var result;
 
-let canvasWidth = 800;
-let canvasHeight = 800;
+let canvasWidth = 450;
+let canvasHeight = 450;
 
 function setup() {
   createCanvas(canvasWidth, canvasHeight);
