@@ -105,7 +105,7 @@ function tellstory() {
 	var output4 = grammar.flatten("#origin4#");
 	var output5 = grammar.flatten("#origin5#");
 	var output6 = grammar.flatten("#origin6#");
-  d.html("Do you know what I just write?"+"<br />" + "<br />"+output1 + "<br />" + "<br />"  +output2 + "<br />" +output3 + "<br />" + output4 + "<br />" + "I will never let you go." + "<br />" +"<br />"+ output5 +"<br />" + output6);
+  d.html("Do you know what I just wrote?"+"<br />" + "<br />"+output1 + "<br />" + "<br />"  +output2 + "<br />" +output3 + "<br />" + output4 + "<br />" + "I will never let you go." + "<br />" +"<br />"+ output5 +"<br />" + output6);
 }
 
 var grammarSource = {
